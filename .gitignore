@@ -1,0 +1,6 @@
+/venv
+auth/__pycache__/
+auth_svc/__pycache__/
+storage/__pycache__/
+test.py
+storage/
